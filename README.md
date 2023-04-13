@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
