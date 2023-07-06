@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Optimize function calls to method calls (#8507)
